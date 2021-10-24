@@ -104,6 +104,5 @@ async def stats(ctx):
   await asyncio.sleep(20)
   await ctx.message.delete()
   await room_msg.delete()
-  quit()
 
 bot.run(TOKEN)
