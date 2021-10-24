@@ -1,7 +1,7 @@
 # W2DISC - A small discord bot for managing Watch2Gether (non-official)
 
 This utility aims to provide simple access to the Watch2Gether service using a discord bot.
-It is mainly used to quickly generate a room from a given YouTube URL by using the official Watch2Gether API (see [text link](https://community.w2g.tv/t/watch2gether-api-documentation/133767) for more info).
+It is mainly used to quickly generate a room from a given YouTube URL by using the official Watch2Gether API (see [the API documentation](https://community.w2g.tv/t/watch2gether-api-documentation/133767) for more info).
 Feel free to fork and add your own commands & functionality.
 
 ## Usage:
