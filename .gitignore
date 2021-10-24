@@ -1,0 +1,5 @@
+# ignore environment variables with api keys
+.env
+
+# ignore geckodriver on windows
+geckodriver.exe
