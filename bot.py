@@ -40,7 +40,7 @@ def create_room(yt_url):
     global CURRENT_ROOM_KEY
     CURRENT_ROOM_KEY = stream_key
     global ROOMS_CREATED
-    ROOMS_CREATED = +1
+    ROOMS_CREATED += 1
     return make_url_string()
 
 
